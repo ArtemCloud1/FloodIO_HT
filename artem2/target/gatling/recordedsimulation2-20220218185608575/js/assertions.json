@@ -1,0 +1,10 @@
+{
+  "simulation": "artem2.RecordedSimulation2",
+  "simulationId": "recordedsimulation2",
+  "start": 1645210568575,
+  "description": "",
+  "scenarios": ["RecordedSimulation2"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "artem2.RecordedSimulation",
+  "simulationId": "recordedsimulation",
+  "start": 1645382342097,
+  "description": "",
+  "scenarios": ["FloodIo"],
+  "assertions": [
+
+  ]
+}
